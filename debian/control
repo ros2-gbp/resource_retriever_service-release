@@ -1,0 +1,12 @@
+Source: ros-rolling-resource-retriever-service-plugin
+Section: misc
+Priority: optional
+Maintainer: Stoyan Gaydarov <stoyang@intrinsic.ai>
+Build-Depends: debhelper (>= 9.0.0), ros-rolling-ament-cmake-gmock <!nocheck>, ros-rolling-ament-cmake-gtest <!nocheck>, ros-rolling-ament-cmake-ros, ros-rolling-ament-lint-auto <!nocheck>, ros-rolling-ament-lint-common <!nocheck>, ros-rolling-rclcpp, ros-rolling-resource-retriever, ros-rolling-resource-retriever-interfaces, ros-rolling-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-rolling-resource-retriever-service-plugin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-rolling-rclcpp, ros-rolling-resource-retriever, ros-rolling-resource-retriever-interfaces, ros-rolling-ros-workspace
+Description: A resource retriever plugin that relies on talking to a service (specified by resource_retriever_interfaces) for retrieving resources like meshes.

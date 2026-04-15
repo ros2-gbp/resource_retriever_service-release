@@ -1,0 +1,7 @@
+ros-rolling-resource-retriever-service-plugin (0.0.1-1bookworm) bookworm; urgency=high
+
+  * Initial release of resource_retriever_service_plugin package.
+
+ -- Stoyan Gaydarov <stoyang@intrinsic.ai>  Tue, 14 Apr 2026 22:00:00 -0000
+
+
