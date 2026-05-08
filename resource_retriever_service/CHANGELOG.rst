@@ -2,8 +2,8 @@
 Changelog for package resource_retriever_service
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.2 (2026-04-30)
-------------------
+1.0.0 (2026-05-06)
+-------------------
 * Update the plugin license (`#17 <https://github.com/ros2/resource_retriever_service/issues/17>`_)
 * Contributors: Stoyan Gaydarov
 
