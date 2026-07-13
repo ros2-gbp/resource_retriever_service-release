@@ -1,0 +1,12 @@
+Source: ros-lyrical-resource-retriever-service
+Section: misc
+Priority: optional
+Maintainer: "Stoyan Gaydarov" <stoyang@intrinsic.ai>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake-gmock <!nocheck>, ros-lyrical-ament-cmake-gtest <!nocheck>, ros-lyrical-ament-cmake-ros, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ament-lint-common <!nocheck>, ros-lyrical-rclcpp, ros-lyrical-resource-retriever-interfaces, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/resource_retriever_service/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-resource-retriever-service
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-rclcpp, ros-lyrical-resource-retriever-interfaces, ros-lyrical-ros-workspace
+Description: An in memory implementation of the resource_retriever_interfaces service.
