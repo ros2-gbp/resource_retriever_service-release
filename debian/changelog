@@ -1,0 +1,20 @@
+ros-rolling-resource-retriever-interfaces (1.0.1-1resolute) resolute; urgency=high
+
+
+
+ -- "Alejandro Hernandez Cordero" <alejandro@openrobotics.org>  Sun, 12 Jul 2026 22:00:00 -0000
+
+ros-rolling-resource-retriever-interfaces (1.0.0-1resolute) resolute; urgency=high
+
+  * Update the plugin license (#17 <https://github.com/ros2/resource_retriever_service/issues/17>)
+  * Contributors: Stoyan Gaydarov
+
+ -- "Alejandro Hernandez Cordero" <alejandro@openrobotics.org>  Tue, 05 May 2026 22:00:00 -0000
+
+ros-rolling-resource-retriever-interfaces (0.0.1-1resolute) resolute; urgency=high
+
+  * Initial release of resource_retriever_interfaces package.
+
+ -- "Alejandro Hernandez Cordero" <alejandro@openrobotics.org>  Tue, 14 Apr 2026 22:00:00 -0000
+
+
