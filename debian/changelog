@@ -1,0 +1,21 @@
+ros-lyrical-resource-retriever-service (0.0.3-1resolute) resolute; urgency=high
+
+  * Cleanup rclcpp resources before quitting. (#19 <https://github.com/ros2/resource_retriever_service/issues/19>) (#20 <https://github.com/ros2/resource_retriever_service/issues/20>)
+  * Contributors: mergify[bot]
+
+ -- "Stoyan Gaydarov" <stoyang@intrinsic.ai>  Sun, 12 Jul 2026 22:00:00 -0000
+
+ros-lyrical-resource-retriever-service (0.0.2-1resolute) resolute; urgency=high
+
+  * Update the plugin license (#17 <https://github.com/ros2/resource_retriever_service/issues/17>)
+  * Contributors: Stoyan Gaydarov
+
+ -- "Stoyan Gaydarov" <stoyang@intrinsic.ai>  Wed, 29 Apr 2026 22:00:00 -0000
+
+ros-lyrical-resource-retriever-service (0.0.1-1resolute) resolute; urgency=high
+
+  * Initial release of resource_retriever_service package.
+
+ -- "Stoyan Gaydarov" <stoyang@intrinsic.ai>  Tue, 14 Apr 2026 22:00:00 -0000
+
+
