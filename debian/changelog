@@ -1,0 +1,20 @@
+ros-lyrical-resource-retriever-interfaces (0.0.3-1resolute) resolute; urgency=high
+
+
+
+ -- "Alejandro Hernandez Cordero" <alejandro@openrobotics.org>  Sun, 12 Jul 2026 22:00:00 -0000
+
+ros-lyrical-resource-retriever-interfaces (0.0.2-1resolute) resolute; urgency=high
+
+  * Update the plugin license (#17 <https://github.com/ros2/resource_retriever_service/issues/17>)
+  * Contributors: Stoyan Gaydarov
+
+ -- "Alejandro Hernandez Cordero" <alejandro@openrobotics.org>  Wed, 29 Apr 2026 22:00:00 -0000
+
+ros-lyrical-resource-retriever-interfaces (0.0.1-1resolute) resolute; urgency=high
+
+  * Initial release of resource_retriever_interfaces package.
+
+ -- "Alejandro Hernandez Cordero" <alejandro@openrobotics.org>  Tue, 14 Apr 2026 22:00:00 -0000
+
+
